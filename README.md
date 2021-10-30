@@ -1,2 +1,2 @@
-# Button-Minecraft
-Files for the A Button minecraft server
+# Button-Minecraft-Events
+Files for the A Button Minecraft Events server
