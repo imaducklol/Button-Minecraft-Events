@@ -1,0 +1,18 @@
+BCauldron:
+  3efb602d-cdc3-404b-b6a3-90c39ced18ef: {}
+  3bbc9c7e-f60a-4c90-89ce-9bb5ac2a2e31: {}
+Barrel:
+  3efb602d-cdc3-404b-b6a3-90c39ced18ef:
+    '0':
+      spigot: 210/63/-248
+      bounds: 208,63,-248,209,64,-247
+    '1':
+      spigot: 210/63/-242
+      bounds: 208,63,-242,209,64,-241
+    '2':
+      spigot: 210/63/-245
+      bounds: 208,63,-245,209,64,-244
+  3bbc9c7e-f60a-4c90-89ce-9bb5ac2a2e31: {}
+Worlds:
+  3efb602d-cdc3-404b-b6a3-90c39ced18ef: world
+  3bbc9c7e-f60a-4c90-89ce-9bb5ac2a2e31: world_nether
