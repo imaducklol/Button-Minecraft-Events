@@ -11,17 +11,7 @@ whitelist.json
 world/
 world_nether/
 world_the_end/
-plugins/Brewery/worlddata.yml
-plugins/Brewery/worlddataBackup.yml
-plugins/Brewery/configs/*
-plugins/Brewery/languages/*
-plugins/Brewery/data.yml
 plugins/SetHome/Homes.yml
 plugins/CoreProtect/database.db
 storage.json
-plugins/GSit/lang/*.yml
-plugins/GSit/data/s.data
-plugins/GSit/data/t.data
 plugins/ProtocolLib/lastupdate
-plugins/ImageOnMap/images/
-plugins/ImageOnMap/maps/
