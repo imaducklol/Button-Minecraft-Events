@@ -14,3 +14,7 @@ world_the_end/
 plugins/CoreProtect/database.db
 storage.json
 plugins/ProtocolLib/lastupdate
+plugins/LuckPerms/translations
+plugins/LuckPerms/libs
+plugins/LuckPerms/luckperms-h2.mv.db
+plugins/Essentials/items.json
