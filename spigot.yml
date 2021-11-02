@@ -63,6 +63,7 @@ stats:
   forced-stats: {}
 world-settings:
   default:
+    thunder-chance: 100000
     verbose: false
     hopper-amount: 1
     dragon-death-sound-radius: 0
